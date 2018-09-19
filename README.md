@@ -54,7 +54,7 @@ Python 3.x 安装Pillow
 
 给Python安装Pillow非常简单，使用pip或easy_install只要一行代码即可。
 
-在命令行使用PIP安装：
+在命令行使用pip安装：
 
 pip install Pillow
 或在命令行使用easy_install安装： 
