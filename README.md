@@ -2,7 +2,7 @@
 
 WeChat analysis by itchat
 
-我的博客地址：https://blog.csdn.net/m511655654/article/details/82758059
+相关博客地址：https://blog.csdn.net/m511655654/article/details/82758059
 
 通过调用第三方库itchat，基于python3.6实现微信朋友圈性别、地区、个性签名、头像四个维度的分析。
 
